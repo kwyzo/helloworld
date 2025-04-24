@@ -1,0 +1,13 @@
+{
+    "name": "web-server",
+    "version": "1.0.0",
+    "description": "使用 Express 框架的简单 Web 服务器示例",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "express": "latest"
+    }
+}    
